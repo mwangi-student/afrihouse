@@ -18,8 +18,8 @@ To run the project locally:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/afrihouse-realtors.git
-    cd afrihouse-realtors
+    git clone https://github.com/mwangi-student/afrihouse.git
+    cd afrihouse
     ```
 
 2. Set up the backend:
@@ -53,4 +53,5 @@ To run the project locally:
 **Mwangi Brian**
 
 For any issues or suggestions, feel free to reach out to me.
+[email](mwangi.brian@student.moringaschool.com)
 
